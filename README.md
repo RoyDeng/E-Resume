@@ -1,5 +1,5 @@
 # E-Resume
-使用 Simple QrCode 產生 二維碼
+使用 Simple QrCode 產生二維碼
 
 ## 如何安裝與配置
 在專案目錄下使用以下命令安裝套件：
